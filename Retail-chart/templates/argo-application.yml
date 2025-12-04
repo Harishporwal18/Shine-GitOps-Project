@@ -14,7 +14,7 @@ spec:
         userprofile:
           activeVersion: blue
   destination:
-    server: harish-test-cluster-dns-6obcku6o.hcp.eastus.azmk8s.io
+    server: https://harish-test-cluster-dns-6obcku6o.hcp.eastus.azmk8s.io:443
     namespace: retail
   syncPolicy:
     automated:
